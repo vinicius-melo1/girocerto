@@ -1,2 +1,2 @@
 # girocerto
-Repositório para atividade de aula de Engenharia de Software 
+Repositório para aula de Engenharia de Software 
